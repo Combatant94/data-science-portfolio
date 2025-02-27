@@ -1,2 +1,3 @@
 # data-science-portfolio
-A collection of my data science projects, including machine learning, SQL, and statistical analyis
+## About Me
+Hi, I'm Mohd Nafees, a Data Science graduate with expertise in Python, SQL, Machine Learning, and Statistical Analysis.
